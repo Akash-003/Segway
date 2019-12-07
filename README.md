@@ -11,5 +11,5 @@ Items used:
 The balancing of the bot involves just simple physics. Whenever the bot tilts in one direction a torque is applied by the motors in opposte direction to balance the bot.
 
 <p align="center">
-  <img src="https://maker.pro/storage/a73ee39/a73ee39c4a077e861250ba7cdd6935db.jpeg" width="350" title="hover text">
+  <img src="https://maker.pro/storage/a73ee39/a73ee39c4a077e861250ba7cdd6935db.jpeg" width="350" title="Working diagram">
 </p>
